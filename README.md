@@ -1,4 +1,4 @@
- # -Automated Colorization of Grayscale Images with Deep Neural Networks- #
+ # Automated Colorization of Grayscale Images with Deep Neural Networks #
 Team Members:
 
 Eren Bilaloğlu
