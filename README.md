@@ -2,7 +2,7 @@
 ### Team Members:
 
 [Eren Bilaloğlu](https://github.com/erenbilaloglu)  
-Alper Dağgez  
+[Alper Dağgez](https://github.com/alperdaggez)    
 [Rümeyza Dinçer](https://github.com/rumeyza)  
 [Berk Durmuş](https://github.com/berkdurmus)  
 [Eliz Tekcan](https://github.com/eliztekcan)  
