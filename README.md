@@ -1,14 +1,10 @@
  # Automated Colorization of Grayscale Images with Deep Neural Networks #
 Team Members:
 
-Eren Bilaloğlu
-
-Alper Dağgez
-
-Rümeyza Dinçer
-
-Berk Durmuş
-
+Eren Bilaloğlu  
+Alper Dağgez  
+Rümeyza Dinçer  
+Berk Durmuş  
 Eliz Tekcan
 
 ## Dataset:
